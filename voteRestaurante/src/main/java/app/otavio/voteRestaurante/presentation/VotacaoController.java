@@ -64,8 +64,6 @@ public class VotacaoController{
         
         this.prepararProximasOpcoes();
         
-        System.out.println(restaurantesParaAvaliar.size());
-        
         modelAndView = new ModelAndView("votacao/votacao");
         modelAndView.addObject("votacaoConcluida", false);
         
