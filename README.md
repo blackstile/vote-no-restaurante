@@ -3,9 +3,9 @@
 ========
 ## Solução para ranking de votação.
   O objetivo do programa é classificar a ordem de prioridade entre 5 restaurantes fastfood. É apresentado sempre 2 restaurantes onde o usuário escolhe o 1 preferido, e assim é apresentado os demais, até que seja possível classificar a ordem de preferência de todos restaurantes, e atribuido os votos. Exemplo:<br>
-  Usuário prefere <br>
-    McDonalds > Bobs > Habibs > Subway <br>
-  Na ultima opção de voto aparece para escolher entre McDonalds X Burguer King, caso o usuário escolhe Burguer King, a lista de preferência ficaria, Burguer King > McDonalds > Bobs > Habibs > Subway. Ou seja por escolher Burguer King ao McDonalds, ele ja colocou como preferência todos os outros em precisar votar em 1 para cada opção, pois é entendido que se ele prefere o McDonalds em relação a todos, e prefere o Burguer King em relação ao McDonalds, então ele prefere Burguer King > Todos. Com isso o ranking ficaria:<br>
+  Usuário prefere <br><br>
+    McDonalds > Bobs > Habibs > Subway <br><br>
+  Na ultima opção de voto aparece para escolher entre McDonalds X Burguer King, caso o usuário escolhe Burguer King, a lista de preferência ficaria, Burguer King > McDonalds > Bobs > Habibs > Subway. Ou seja por escolher Burguer King ao McDonalds, ele ja colocou como preferência todos os outros sem precisar votar em 1 vez para cada opção, pois é entendido que se ele prefere o McDonalds em relação a todos, e prefere o Burguer King em relação ao McDonalds, então ele prefere Burguer King > Todos. Com isso o ranking ficaria:<br>
   Burguer King: 4 votos
   Mc Donalds: 3 votos
   Bobs: 2 votos
