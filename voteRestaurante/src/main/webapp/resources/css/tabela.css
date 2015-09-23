@@ -1,0 +1,32 @@
+a {
+	color: white;
+}
+table {
+	border: 1px solid black;
+	font: 12px verdana, arial;
+}
+
+table thead {
+	background: gray;
+	color: white;
+}
+
+table tfoot {
+	background: gray;
+	color: white;
+}
+
+table tr th {
+	border: 1px solid black;
+	padding: 5px;
+}
+table tr td {
+	border: 1px solid black;
+	padding: 5px;
+}
+
+table tbody tr:nth-child(2n+1) {
+	background: lightgray;
+}
+	
+	
