@@ -1,5 +1,4 @@
 # Vote no restaurante - Escolha seus restaurantes preferidos
-
 ========
 ## Solução para ranking de votação.
   O objetivo do programa é classificar a ordem de prioridade entre 5 restaurantes fastfood. É apresentado sempre 2 restaurantes onde o usuário escolhe o 1 preferido, e assim é apresentado os demais, até que seja possível classificar a ordem de preferência de todos restaurantes, e atribuido os votos. Exemplo:<br>
