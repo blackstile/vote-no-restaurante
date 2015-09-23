@@ -6,10 +6,10 @@
   Usuário prefere <br><br>
     McDonalds > Bobs > Habibs > Subway <br><br>
   Na ultima opção de voto aparece para escolher entre McDonalds X Burguer King, caso o usuário escolhe Burguer King, a lista de preferência ficaria, Burguer King > McDonalds > Bobs > Habibs > Subway. Ou seja por escolher Burguer King ao McDonalds, ele ja colocou como preferência todos os outros sem precisar votar em 1 vez para cada opção, pois é entendido que se ele prefere o McDonalds em relação a todos, e prefere o Burguer King em relação ao McDonalds, então ele prefere Burguer King > Todos. Com isso o ranking ficaria:<br>
-  Burguer King: 4 votos
-  Mc Donalds: 3 votos
-  Bobs: 2 votos
-  Habibs: 1 votos
+  Burguer King: 4 votos<br>
+  Mc Donalds: 3 votos<br>
+  Bobs: 2 votos<br>
+  Habibs: 1 votos<br>
   Subway: 0 votos<br>
   Ou seja as opções são apresentadas até que seja possível formar o ranking de preferência, e não necessariamente comparando todos contra todos.
   
